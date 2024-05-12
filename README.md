@@ -1,6 +1,7 @@
 # OCR : Images to Text
 ## Introduction
 - This python program behaves like an OCR and converts multiple images to text
+- As compared to its competition, my program works with multiple images and the "open source" nature of it lets other programmers utilize the text outputted to their own needs
 
 ## Problem Statement
 - Personally, I felt the need to create this program was because of a course I had taken in my 2nd semester of B.Tech. at IIITD
@@ -12,6 +13,7 @@
 
 ## How to Use
 - Firstly open the pdf in firefox
+    - It needs to be opened in firefox since my program utilizes the feature of firefox which lets the user scroll through documents using J and K (vim navigation)
 - Run the program\
 `python3 main.py <file where text should be saved>`
 - Point your cursor to the top left of the first page
